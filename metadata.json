@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Sistema de Inventario Goticas de Aceite",
+  "description": "Sistema de control de inventarios, entradas, salidas, ajustes, costos y dashboard analítico para la empresa Goticas de Aceite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
